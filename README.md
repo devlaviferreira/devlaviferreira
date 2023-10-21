@@ -1,10 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Ival Ferreira!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Graduado em Engenharia Mecânica pela Universidade Federal da Bahia - UFBA. Atuei como Desenhista Projetista na área de HVAC. Atualmente sou Servidor Público Estadual onde desempenho atividades voltadas para o seguimento de geoprocessamento.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 Na área de programação, sou um entusiasta dando os primeiros passos e trilhando esse caminho em busca da qualificação como Dev Fullstack.
 
 ---
 
