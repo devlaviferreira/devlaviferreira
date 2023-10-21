@@ -3,7 +3,7 @@
 > Graduado em Engenharia Mecânica pela Universidade Federal da Bahia - UFBA. Atuei como Desenhista Técnico e Projetista Mecânico no seguimento de HVAC.
 > Atualmente sou Servidor Público Estadual onde desempenho atividades voltadas para o seguimento de geoprocessamento.
 
-🔭 Na área de programação, sou um entusiasta dando os primeiros passos e trilhando esse caminho em busca da qualificação como Dev Fullstack.
+🔭 Na área de programação, sou um entusiasta dando os primeiros passos e trilhando o caminho em busca de minha qualificação como Dev Fullstack.
 
 ---
 
