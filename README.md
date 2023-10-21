@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Ival Ferreira!</strong>
+## Olá, meu nome é <strong>Ival Ferreira!</strong>
 
 > Graduado em Engenharia Mecânica pela Universidade Federal da Bahia - UFBA. Atuei como Desenhista Técnico e Projetista Mecânico no seguimento de HVAC.
 > Atualmente sou Servidor Público Estadual onde desempenho atividades voltadas para o seguimento de geoprocessamento.
